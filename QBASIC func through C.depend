@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525007212 source:d:\programming\{c}\projects\code blocks\qbasic func through c\main.c
+	"QBASIC_func_C.h"
+
+1525006830 d:\programming\{c}\projects\code blocks\qbasic func through c\qbasic_func_c.h
+	<stdlib.h>
+	<string.h>
+
